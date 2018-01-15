@@ -6,4 +6,4 @@ title: ""
 ##
 
 
-Build With: [Emacs](https://gnu.org/software/emacs), [mx.E](https://gitee.com/ReimuXMX/mx.E)
+Build With: [Emacs](https://www.gnu.org/software/emacs), [XMXE](https://gitee.com/ReimuXMX/XMXE)
